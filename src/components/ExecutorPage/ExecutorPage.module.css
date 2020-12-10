@@ -1,0 +1,11 @@
+.content {
+    padding-top: 20px;
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.card {
+    margin: 0 auto !important;
+    width: 600px !important;
+}

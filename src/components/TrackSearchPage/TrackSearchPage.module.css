@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.list {
+    text-align: center !important;
+}
+
+.forms h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+.forms input {
+    width: 600px;
+    height: 45px;
+}
+
+.forms h4 {
+    text-align: center;
+    color: crimson;
+}
+.forms .errors {
+    color: crimson;
+}
+
+.forms a {
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
